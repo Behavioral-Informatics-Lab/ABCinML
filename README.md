@@ -14,6 +14,5 @@ The idealization of a static machine-learned model, trained once and deployed fo
  - Install packages:
     ```
     pip install -r requirements.txt
-    
    ```
  - Experiment with the main notebook "Final_Model.ipynb"
