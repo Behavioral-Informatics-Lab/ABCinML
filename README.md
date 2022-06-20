@@ -11,5 +11,9 @@ The idealization of a static machine-learned model, trained once and deployed fo
 # Requirements
  - Download the datasets https://drive.google.com/file/d/1v8Utgi7DbtPLQyh_9Z4taGsrV2qAGX_1/view?usp=sharing
  - Unzip the folder "data.zip"
- - Install packages with pip: -r requirements.txt
+ - Install packages:
+    ```
+    pip install -r requirements.txt
+    
+   ```
  - Experiment with the main notebook "Final_Model.ipynb"
